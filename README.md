@@ -54,6 +54,5 @@ This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for
 
 ## 📬 Contact
 For any questions or issues, please open an **issue** or contact:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Email**: your-ritikrana2804@gmail.com
 
